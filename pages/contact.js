@@ -38,7 +38,7 @@ const Contact = () => {
                       </li>
                       <li>
                         <span>Hotline</span>
-                        <a href="tel:+12345678">12345678</a>
+                        <a href="tel:+08123456789">08123456789</a>
                       </li>
                     </ul>
                   </div>
